@@ -1,0 +1,7 @@
+Source-Organization: Tauranga City Library
+Organization-Address: 91 Willow St, Tauranga 3110, New Zealand
+Contact-Phone: +64.7.5777177
+Contact-Email: library@tauranga.govt.nz
+External-Description: Mr P.E.Walshe at his potters wheel
+External-Identifier: 7e001f3c-09f1-49cf-9c7c-a963e4b96895
+
